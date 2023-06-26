@@ -1,4 +1,0 @@
-claves para ignorar
-app1: 123
-app2: 456
-app3: 789
